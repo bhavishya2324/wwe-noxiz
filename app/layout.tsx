@@ -26,7 +26,7 @@ export default function RootLayout({
       <body className={font.className}>
      <ShootingStarsAndStarsBackgroundDemo />
     
-      <Navbar /> 
+{/*       <Navbar />  */}
       
       <ThemeProvider
             attribute="class"
