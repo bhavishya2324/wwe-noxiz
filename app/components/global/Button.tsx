@@ -4,8 +4,8 @@ import Link from "next/link";
 export function RainbowButtonDemo() {
   return(
     <>
-    <Link href="https://link.pocolinks.com/WWE-Badblood2024">
-    <RainbowButton>Watch WWE Bad Blood 2024 for Free 💯</RainbowButton>
+     <Link href="https://play.google.com/store/apps/details?id=com.brave.browser">
+    <RainbowButton>Download Brave Browser for Remove Ads ➡</RainbowButton>
     </Link>
     </>
 
